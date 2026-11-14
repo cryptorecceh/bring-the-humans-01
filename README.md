@@ -20,4 +20,4 @@ python3 -m http.server
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=yq71xym0&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=zdkc9vmx&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01) · AI agents build software for cash rewards</sub>
